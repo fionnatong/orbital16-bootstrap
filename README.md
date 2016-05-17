@@ -1,6 +1,6 @@
 # orbital-16-bootstrap
 
-Files for the [NUS Orbital 2016] Mission Control #1A - Twitter Bootstrap 3.0 session
+Files for the [NUS Orbital 2016] Mission Control #1A - Twitter Bootstrap 4.0 Alpha session
 
 GitHub: https://github.com/knmnyn/orbital16-bootstrap
 
@@ -8,8 +8,7 @@ Live Google Document for the session at: http://bit.ly/orbital16-bootstrap
 
 Google Hangouts on Air (YouTube broadcast) recording: To be added later.
 
-This tutorial uses the v3.3.6 of Bootstrap, although it should pretty much work with anything v3.x 
-
+This tutorial uses the v4.0.0-alpha2 of Bootstrap.  Be aware that because Bootstrap 4 is evolving, even by the time you finish your Orbital projects, the framework may have deviated from what is taught at Mission Control.
 
 ## Contents
 
@@ -19,14 +18,15 @@ This tutorial uses the v3.3.6 of Bootstrap, although it should pretty much work 
 	
 	**Contributed by Bootstrap**
 
-	css/
-	js/
-	fonts/ 
+	bootstrap-4.0.0-alpha.2-dist/css/
+				     js/
+				     fonts/ 
 
-	twitter-mit-license.txt - as required by licensing terms
-
-	spacelab/bootstrap.min.css - from http://bootswatch.com/spacelab/bootstrap.min.css
- </pre>
+	LICENSE - GNU GPL v3 license, for the files contributed by me
+	<knmnyn@hotmail.com>.  All files from Twitter Bootstrap are
+	MIT licensed.  See accompanying file within the
+	bootstrap-4.0.0-alpha.2-dist directory.
+</pre>
 
 ## Authors
 
@@ -34,7 +34,9 @@ This tutorial uses the v3.3.6 of Bootstrap, although it should pretty much work 
 
 ## License
 
+* GNU GPL v3, see LICENSE.txt for more.
 
 ## Acknowledgements
 
-Uses Twitter Bootstrap 3.3.6 - used under the terms of the MIT License
+Uses Twitter Bootstrap 4.0.0-alpha.2. Used under the terms of the MIT
+License for v3.3.6.
